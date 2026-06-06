@@ -81,7 +81,7 @@ while(temp!=null){
     LinkedList ll = new LinkedList();
     Node a = new Node(1);
     Node b = new Node(2); 
-    Node c = new Node(5);   
+    Node c = new Node(10);   
     Node d = new Node(6);   
 
     Node head = a;
